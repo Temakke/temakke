@@ -1,4 +1,5 @@
 ### Um dia, posto um projeto aqui :) 👋
+##
 
 <div align="center">
   <a href="https://github.com/Temakke">
@@ -15,4 +16,5 @@
  
 <div> 
   <a href = "mailto:gui.contatok@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=dark" target="_blank"></a>
+  <a href="https://instagram.com/temakk3.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
