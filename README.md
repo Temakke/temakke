@@ -1,4 +1,4 @@
-Se### Um dia, posto um projeto aqui :) 👋
+### Um dia, posto um projeto aqui :) 👋
 ##
 
 <div align="center">
